@@ -1,7 +1,7 @@
 <div align="center" markdown="1">
-  <img src="../../../.github/LilyGo_logo.png" alt="LilyGo logo" width="100"/>
+  <img src="./images/LILYGO-T-BEAM.png" alt="LilyGo logo" width="100"/>
 </div>
-![](./images/LILYGO-T-BEAM.png)
+
 <h1 align = "center"> LilyGo T-Beam-Supreme </h1>
 
 ## Overview
