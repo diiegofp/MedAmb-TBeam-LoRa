@@ -33,7 +33,7 @@
     * Open the downloaded `LilyGo-LoRa-Series`
     * Open `examples`
     * Select the sample file and open the file ending with `ino`
-5. On Arduino ISelect the corresponding board in the DE tool project and click on the corresponding option in the list below to select
+5. On Arduino IDE Select the corresponding board in the DE tool project and click on the corresponding option in the list below to select
 
     | Name                                 | Value                             |
     | ------------------------------------ | --------------------------------- |
@@ -184,7 +184,6 @@
 ![RF Block Diagram](./images/LORA_89.jpg)
 
 
-
 ### T-Beam-s3-supreme antenna signal quality
 
 ![t-beams3-supreme-ant-868M](../../../images/t-beams3-supreme-ant-868M.jpg)
@@ -195,8 +194,6 @@
 * [Schematic](../../../schematic/LilyGo_T-BeamS3Supreme.pdf)
 * [AXP2101 datasheet](http://www.x-powers.com/en.php/Info/product_detail/article_id/95)
 * [SX1262 datasheet](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1262)
-* [LR1121 datasheet](https://www.semtech.com/products/wireless-rf/lora-connect/lr1121)
-* [GSP MAX-M10 datasheet](https://www.u-blox.com/zh/product/max-m10-series)
 * [PCF8563 datasheet](https://www.nxp.com/products/PCF8563)
 * [QMI8658 datasheet](https://qstcorp.com/upload/pdf/202202/QMI8658C%20datasheet%20rev%200.9.pdf)
 * [QMC6310 datasheet](https://datasheet4u.com/pdf-down/Q/M/C/QMC6310-QST.pdf)
