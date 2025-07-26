@@ -16,7 +16,7 @@ TX | 9
 VDD | 3V3
 VSS | GND
 
-### Sensor de temperatura, humedad y presión - Comunicación I2C
+### Sensor de temperatura, humedad y presión
 BME280 | ESP32S3
 --- | ---
 SDI 3 | SDA 21
