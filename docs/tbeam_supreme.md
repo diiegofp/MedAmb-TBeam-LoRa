@@ -178,15 +178,6 @@
 | Transfer rate(FSK)  | 0.6 K ～ 300 Kbps              |
 | Modulation          | FSK, GFSK, MSK, GMSK, LoRa,OOK |
 
-### SX1262 RF Block Diagram
-
-![RF Block Diagram](./images/LORA_89.jpg)
-
-
-### T-Beam-s3-supreme antenna signal quality
-
-![t-beams3-supreme-ant-868M](../../../images/t-beams3-supreme-ant-868M.jpg)
-![t-beams3-supreme-ant-915M](../../../images/t-beams3-supreme-ant-915M.jpg)
 
 ### Resource
 
@@ -198,7 +189,6 @@
 * [QMC6310 datasheet](https://datasheet4u.com/pdf-down/Q/M/C/QMC6310-QST.pdf)
 * [BME280 datasheet](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
 * [Quectel_L76K_GNSS_Protocol_Specification_V1.2](../../../docs/datasheet/Quectel_L76KL26K_GNSS_协议规范_V1.2.pdf)
-* [CASIC_ProtocolSpecification](../../../docs/datasheet/CASIC_ProtocolSpecification.pdf)
 
 ### Application
 
