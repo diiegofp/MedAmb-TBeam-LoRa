@@ -3,7 +3,7 @@ En este proyecto se realizo el envió de variables ambientales a través de LoRa
 
 # ¿Qué podemos hacer?
 
-Desplegar información por medio de un web server o dashboard MQTT por medio de conexión WiFi. Obtener mediciones de temperatura, humedad y presión atmosférica a través del sensor BME280,  controlar cargas AC por medio del relé y una tira led de tipo NeoPixel por medio de la programación y un Buzzer para emitir algún sonido.
+Desplegar información por medio de Grafana a traves de LoRaWAN. Obtener mediciones de temperatura, humedad y presión atmosférica con el sensor BME280, longitud, latitud y altitud con el GNSS L76K. 
 
 # Pinout
 
