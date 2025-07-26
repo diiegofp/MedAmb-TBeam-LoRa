@@ -1,5 +1,5 @@
 <div align="center" markdown="1">
-  <img src="./images/LILYGO-T-BEAM.png" alt="LilyGo logo" width="100"/>
+  <img src="./LILYGO-T-BEAM.png" alt="LilyGo logo" width="100"/>
 </div>
 
 <h1 align = "center"> LilyGo T-Beam-Supreme </h1>
