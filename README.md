@@ -8,29 +8,24 @@ Desplegar información por medio de un web server o dashboard MQTT por medio de 
 # Pinout
 
 
-### B
-Nombre | GPIO 
+### GPS
+L76K | GPIO 
 --- | --- 
-DATA | 12
+TX | 8
+TX | 9
 VDD | 3V3
 VSS | GND
 
-### Relé
-Nombre | GPIO 
---- | --- 
-DATA | 13
-VDD | 5V
-VSS | GND
-
-### Tira led - WS2812B
-Nombre | GPIO 
---- | --- 
-DATA | 14
-VDD | 5V
-VSS | GND
-
 ### Sensor de temperatura, humedad y presión - Comunicación I2C
-BME280 | ESP32
+BME280 | ESP32S3
 --- | ---
 SDI 3 | SDA 21
 SCK 4 |  SCL 22 
+
+### LoRa Module
+SX1262 | GPIO 
+--- | --- 
+DIO1 | 1
+BUSY | 4
+RST | 5
+CS | 10
