@@ -11,7 +11,6 @@
 ### Notes on use
 
 1. Please be sure to connect the antenna before transmitting, otherwise it is easy to damage the RF module
-2. The antenna of the LR1121 version is above the Radio module, and the Sub 1G antenna is on the PCB LoRa silkscreen.
 
 ### Product
 
