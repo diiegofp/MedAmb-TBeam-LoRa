@@ -3,7 +3,7 @@ En este proyecto se realizo el envió de variables ambientales a través de LoRa
 
 # ¿Qué podemos hacer?
 
-Desplegar información por medio de Grafana a traves de LoRaWAN. Obtener mediciones de temperatura, humedad y presión atmosférica con el sensor BME280, longitud, latitud y altitud con el GNSS L76K. Por último, el QMI8658 que incorpora un giroscopio de 3 ejes y un acelerómetro de 3 ejes. 
+Desplegar información por medio de Grafana a traves de LoRaWAN. Obtener mediciones de temperatura, humedad y presión atmosférica con el sensor BME280. Con el GNSS L76K obtenemos longitud, latitud y altitud. Por último, el QMI8658 que incorpora un giroscopio de 3 ejes y un acelerómetro de 3 ejes. 
 
 # Pinout
 
